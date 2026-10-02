@@ -1,0 +1,6 @@
+{
+  "name": "Chama Ledger",
+  "description": "Digital Table Banking ledger for Kenyan savings groups to manage members, contributions, loans, and payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

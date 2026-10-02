@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chama Ledger</string>
+    <string name="tagline">Digital Table Banking</string>
+    <string name="currency_symbol">KSh</string>
+    <string name="currency_kes">KES</string>
+</resources>
